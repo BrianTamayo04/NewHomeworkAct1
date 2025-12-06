@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RoomWork</string>
+    <string name="task_title">Task title</string>
+    <string name="description">Description</string>
+    <string name="created_at">Created at (yyyy-MM-dd HH:mm:ss)</string>
+    <string name="save">Save</string>
+    <string name="add_task">Add Task</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="toggle_complete">Toggle complete</string>
+    <string name="_2025_12_05">2025-12-05</string>
+    <string name="task_title_ot">Task title</string>
+    <string name="description_here">Description here...</string>
+</resources>
